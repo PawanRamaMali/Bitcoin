@@ -41,6 +41,16 @@ Blocks in a Blockchain are linked to each other through the process of cryptogra
 * Cryptography
 * Hardware
 * Miners (Gaming Theory)
+ 
+* Bitcoin software creates the task and than give to the miners to solve it!
+* This task or challenge will take approximately 10 minutes to be completed!
+* Every single miner starts to find that Nonce which will validate the hash of block
+* At a moment One of the miner with higher speed and great hardware specs will win the match but the match will go till 10 minutes.
+* No one is loser!
+* All the community will start verifying that block which is mined by the winner.
+* It will end up by being the new block that will be added to blockchain.
+* This is both competition and co-opetition .
+* Winner will be paid by 12.5 Btc and that's how new bitcoin is created!
   
 ![image](https://user-images.githubusercontent.com/11299574/142675891-c2b4dcd3-bec8-4b80-b962-3647f97fd799.png)
 
