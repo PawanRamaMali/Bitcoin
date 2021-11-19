@@ -58,4 +58,12 @@ Blocks in a Blockchain are linked to each other through the process of cryptogra
 ---
 </details>
 
+<details>
+<summary> What is Disintermediation ? </summary>
+<br/>
+
+Disintermediation is the process of reducing or eliminating intermediaries (i.e.. "middle-men") between parties in a transaction. The fact that Bitcoin enables the exchange of value between two parties directly over the Internet without requiring the services of a bank or some other institution is an example of disintermediation.
+  
+---
+</details>
 
