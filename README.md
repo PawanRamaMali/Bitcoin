@@ -33,3 +33,19 @@ Blocks in a Blockchain are linked to each other through the process of cryptogra
 ---
 </details>
 
+<details>
+<summary> The Four Fundamental Components of Bitcoin  ? </summary>
+<br/>
+
+* Software
+* Cryptography
+* Hardware
+* Miners (Gaming Theory)
+  
+![image](https://user-images.githubusercontent.com/11299574/142675891-c2b4dcd3-bec8-4b80-b962-3647f97fd799.png)
+
+  
+---
+</details>
+
+
