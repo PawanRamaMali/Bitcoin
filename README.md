@@ -1,3 +1,3 @@
-# Blockchain
+# Bitcoin
 
-Repository on Blockchain development
+Repository on Bitcoin development
