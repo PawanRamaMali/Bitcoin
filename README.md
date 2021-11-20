@@ -130,9 +130,10 @@ Soft For - Introduces change that is backwards compatible. Doesn't need upgrade.
 * Input : Where the funds are coming from
 * Output : Where the funds are going
 * Amount : Value of transaction 
-* Digital Signature : Transaction must be digitally signed using owner's private key. 
+* Wtiness : Digital Signature - Transaction must be digitally signed using owner's private key. 
   (Private key is a secret and never shared)
   
+* In a SegWit Transaction, Signature data(Witness) is segregated to an extended block.
 
 ---
 </details>
