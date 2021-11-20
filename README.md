@@ -15,6 +15,7 @@ Bitcoin is a decentralized digital currency and blockchain is a technology that 
 <br/>
 
 ![image](https://user-images.githubusercontent.com/11299574/142738670-4ed871bf-eaa7-4897-95ec-fdc2e5aa6537.png)
+Source : https://blockchaininformer.com/bitcoin/what-is-bitcoin/
   
 ---
 </details>
