@@ -137,3 +137,18 @@ Soft For - Introduces change that is backwards compatible. Doesn't need upgrade.
 
 ---
 </details>
+
+<details>
+<summary> How many transactions are in a block ?</summary>
+<br/>
+
+* Limited by how many transactions fit within the maximum "block weight"
+* Current block weight limit is 4 million "wieght units"
+* Block weight is measured in bytes
+* Transaction fees are also set based on the number of bytes in a transaction 
+* Miners try to maximise their profits by getting as many high fee transactions as it can fit in block
+* It is possible to have a block with only 1 transaction, the Coinbase transaction.
+
+
+---
+</details>
