@@ -159,7 +159,9 @@ Soft For - Introduces change that is backwards compatible. Doesn't need upgrade.
 
 Merkle tree is a fundamental part of blockchain technology. It is a mathematical data structure composed of hashes of different blocks of data, and which serves as a summary of all the transactions in a block.
 
-* A Tree composed of hashes
+* Hash Tree - A Tree composed of hashes
+* Ralph Merkle 
+* It is possible to build a block without Merkle Tree
 
 ---
 </details>
