@@ -88,3 +88,21 @@ Bitcoin forks are defined variantly as changes in the protocol of the bitcoin ne
 
 ---
 </details>
+
+<details>
+<summary> Hard Fork vs Soft Fork </summary>
+<br/>
+
+
+
+---
+</details>
+
+<details>
+<summary> Hard Fork </summary>
+<br/>
+
+![Infographic-Hard-Fork-Guide](https://user-images.githubusercontent.com/11299574/142736878-3110138c-91c3-4f78-8230-ba5cf211d051.png)
+
+---
+</details>
