@@ -107,3 +107,32 @@ Soft For - Introduces change that is backwards compatible. Doesn't need upgrade.
 
 ---
 </details>
+
+<details>
+<summary> What is Segregated Witnes (SegWit) </summary>
+<br/>
+
+* Protocol upgrade
+* Improves scalability without increasing block size
+* Addresses Transaction malleability 
+* Does not require upgrading to remain on the blockchain
+* Did not cause a split in the chain
+  
+
+---
+</details>
+
+
+<details>
+<summary> Contents of Bitcoin Transaction </summary>
+<br/>
+
+* Input : Where the funds are coming from
+* Output : Where the funds are going
+* Amount : Value of transaction 
+* Digital Signature : Transaction must be digitally signed using owner's private key. 
+  (Private key is a secret and never shared)
+  
+
+---
+</details>
