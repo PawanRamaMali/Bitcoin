@@ -93,7 +93,8 @@ Bitcoin forks are defined variantly as changes in the protocol of the bitcoin ne
 <summary> Hard Fork vs Soft Fork </summary>
 <br/>
 
-
+Hard Fork - Introduces a change that forces everyone to upgrade.
+Soft For - Introduces change that is backwards compatible. Doesn't need upgrade.
 
 ---
 </details>
