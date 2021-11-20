@@ -67,3 +67,15 @@ Disintermediation is the process of reducing or eliminating intermediaries (i.e.
 ---
 </details>
 
+<details>
+<summary> Common Misconceptions about Bitcoin </summary>
+<br/>
+
+#1: Bitcoin is used only for speculation.
+#2: Bitcoin wastes energy. 
+#3: Bitcoin is too volatile to be a store of value. 
+#4: Governments will kill Bitcoin. 
+#5: Other cryptocurrencies are dilutive to Bitcoin.  
+
+---
+</details>
