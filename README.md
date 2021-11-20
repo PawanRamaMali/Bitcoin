@@ -11,6 +11,16 @@ Bitcoin is a decentralized digital currency and blockchain is a technology that 
 </details>
 
 <details>
+<summary> How a Bitcoin transaction works  ? </summary>
+<br/>
+
+![image](https://user-images.githubusercontent.com/11299574/142738670-4ed871bf-eaa7-4897-95ec-fdc2e5aa6537.png)
+  
+---
+</details>
+
+
+<details>
 <summary> What is the role of Bitcoin Miners  ? </summary>
 <br/>
 
