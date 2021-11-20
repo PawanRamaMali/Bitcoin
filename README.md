@@ -152,3 +152,14 @@ Soft For - Introduces change that is backwards compatible. Doesn't need upgrade.
 
 ---
 </details>
+
+<details>
+<summary> What is a Merkle Tree ?</summary>
+<br/>
+
+Merkle tree is a fundamental part of blockchain technology. It is a mathematical data structure composed of hashes of different blocks of data, and which serves as a summary of all the transactions in a block.
+
+* A Tree composed of hashes
+
+---
+</details>
