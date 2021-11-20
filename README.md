@@ -79,3 +79,12 @@ Disintermediation is the process of reducing or eliminating intermediaries (i.e.
 
 ---
 </details>
+
+<details>
+<summary> What is a Bitcoin Fork ? </summary>
+<br/>
+
+Bitcoin forks are defined variantly as changes in the protocol of the bitcoin network or as the situations that occur "when two or more blocks have the same block height". A fork influences the validity of the rules. ... Forks require consensus to be resolved or else a permanent split emerges.
+
+---
+</details>
