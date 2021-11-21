@@ -222,3 +222,31 @@ Source : Investopedia.com
 
 ---
 </details>
+
+<details>
+<summary> How to guess the target hash ? </summary>
+<br/>
+
+All target hashes begin with a string of leading zeroes. There is no minimum target, but there is a maximum target set by the Bitcoin Protocol. No target can be greater than this number:
+  ```
+  00000000ffff0000000000000000000000000000000000000000000000000000
+  ```
+The winning hash for a bitcoin miner is one that has at least the minimum number of leading zeroes defined in the mining difficulty.
+
+Here are some examples of randomized hashes and the criteria for whether they will lead to success for the miner:
+
+![image](https://user-images.githubusercontent.com/11299574/142775716-36a00da6-ce9a-4dd8-aed9-fd3f2d258b71.png)
+Note: These are made-up hashes. Image by Sabrina Jiang © Investopedia 2021 
+
+
+To find such a hash value, you have to get a fast mining rig, or, more realistically, join a mining pool—a group of coin miners who combine their computing power and split the mined Bitcoin. Mining pools are comparable to those Powerball clubs whose members buy lottery tickets en masse and agree to share any winnings. A disproportionately large number of blocks are mined by pools rather than by individual miners.
+
+In other words, it's literally just a numbers game. You cannot guess the pattern or make a prediction based on previous target hashes. At today's difficulty levels, the odds of finding the winning value for a single hash is one in the tens of trillions. Not great odds if you're working on your own, even with a tremendously powerful mining rig.
+
+Not only do miners have to factor in the costs associated with expensive equipment necessary to stand a chance of solving a hash problem. They must also consider the significant amount of electrical power mining rigs utilize in generating vast quantities of nonces in search of the solution. All told, Bitcoin mining is largely unprofitable for most individual miners as of this writing. The site Cryptocompare offers a helpful calculator that allows you to plug in numbers such as your hash speed and electricity costs to estimate the costs and benefits.
+  
+Source : Investopedia.com 
+---
+</details>
+
+
