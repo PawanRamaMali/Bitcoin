@@ -194,7 +194,8 @@ The decimal system uses as its base factors of 100 (e.g., 1% = 0.01). This, in t
 
 If you are mining Bitcoin, you do not need to calculate the total value of that 64-digit number (the hash). I repeat: You do not need to calculate the total value of a hash. 
   
-  ![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/11299574/142775410-c0e21fc9-cd31-486e-b0af-715f1441b2b7.png)
+  
 Source : Investopedia.com 
 
 
