@@ -202,3 +202,23 @@ Source : Investopedia.com
 
 ---
 </details>
+
+<details>
+<summary> What do "64-digit hexadecimal numbers" have to do with Bitcoin mining?  </summary>
+<br/>
+
+What miners are doing with those huge computers and dozens of cooling fans is guessing at the target hash. Miners make these guesses by randomly generating as many "nonces" as possible, as fast as possible. A nonce is short for "number only used once," and the nonce is the key to generating these 64-bit hexadecimal numbers I keep talking about. In Bitcoin mining, a nonce is 32 bits in size—much smaller than the hash, which is 256 bits. The first miner whose nonce generates a hash that is less than or equal to the target hash is awarded credit for completing that block and is awarded the spoils of 6.25 BTC.
+
+In theory, you could achieve the same goal by rolling a 16-sided die 64 times to arrive at random numbers, but why on earth would you want to do that?
+
+The screenshot below, taken from the site Blockchain.info, might help you put all this information together at a glance. You are looking at a summary of everything that happened when block #490163 was mined. The nonce that generated the "winning" hash was 731511405. The target hash is shown on top. The term "Relayed by Antpool" refers to the fact that this particular block was completed by AntPool, one of the more successful mining pools (more about mining pools below).
+
+As you see here, their contribution to the Bitcoin community is that they confirmed 1768 transactions for this block. If you really want to see all 1768 of those transactions for this block, go to this [page](https://blockchain.info/block/000000000000000000c508bc2ada8ebc62cf1c69cb66a163d9a99abad87599b6) and scroll down to the heading "Transactions."
+ 
+ ![image](https://user-images.githubusercontent.com/11299574/142775593-2e86a5bd-8149-457a-a4bc-703b34776c67.png)
+
+Source : Investopedia.com 
+
+
+---
+</details>
