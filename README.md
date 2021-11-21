@@ -182,8 +182,9 @@ Merkle tree is a fundamental part of blockchain technology. It is a mathematical
 <br/>
 
 Here is an example of such a number: 
-
+```
 0000000000000000057fcc708cf0130d95e27c5819203e9f967ac56e4df598ee
+```
 The number above has 64 digits. Easy enough to understand so far. As you probably noticed, that number consists not just of numbers, but also letters of the alphabet. Why is that?
 
 To understand what these letters are doing in the middle of numbers, let's unpack the word "hexadecimal."
