@@ -176,3 +176,27 @@ Merkle tree is a fundamental part of blockchain technology. It is a mathematical
 
 ---
 </details>
+
+<details>
+<summary> What is "64-Digit Hexadecimal Number"? </summary>
+<br/>
+
+Here is an example of such a number: 
+
+0000000000000000057fcc708cf0130d95e27c5819203e9f967ac56e4df598ee
+The number above has 64 digits. Easy enough to understand so far. As you probably noticed, that number consists not just of numbers, but also letters of the alphabet. Why is that?
+
+To understand what these letters are doing in the middle of numbers, let's unpack the word "hexadecimal."
+
+The decimal system uses as its base factors of 100 (e.g., 1% = 0.01). This, in turn, means that every digit of a multi-digit number has 100 possibilities, zero through ninety-nine. In computing, the decimal system is simplified to base 10, or zero through nine.
+
+"Hexadecimal," on the other hand, means base 16, as "hex" is derived from the Greek word for six and "deca" is derived from the Greek word for 10. In a hexadecimal system, each digit has 16 possibilities. But our numeric system only offers 10 ways of representing numbers (zero through nine). That's why you have to stick letters in, specifically letters a, b, c, d, e, and f. 
+
+If you are mining Bitcoin, you do not need to calculate the total value of that 64-digit number (the hash). I repeat: You do not need to calculate the total value of a hash. 
+  
+  ![Uploading image.png…]()
+Source : Investopedia.com 
+
+
+---
+</details>
